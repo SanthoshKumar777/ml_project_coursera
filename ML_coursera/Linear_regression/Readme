@@ -1,0 +1,19 @@
+
+LINEAR REGESSION
+
+
+objective    :  1)To fit a linear curve to given dataset through linear regression with single as well as multiple features
+		2)also verify results against sci-kit learn linear regression model
+
+dataset	     :  Obatained from Andrew NG Coursera's Machine Learning course
+
+softwares &  : 	Python(3.6.4)-jupyter notebook
+		Numpy,Pandas,Matplotlib and Scikit learn
+
+Operating    : 	Ubuntu(16.04 LTS)
+system
+
+Descrption   : 	Predicting House Prices as the output of linear model using size of house and no of bedrooms as feature vector
+		least squres error between the actual output to the predicted output used as cost function and Gradient Descent
+		algorithm is used to minimze the cost function which result in optimum value of parameters of linear model.
+
