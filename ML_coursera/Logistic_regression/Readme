@@ -1,0 +1,18 @@
+LOGISTIC REGRESSION
+
+Objective    : 	1)To clasiify the given data has a label '0' and label '1'
+		2)verify results against scikit learn Logistic Regression Model
+
+dataset	     :  Obatained from Andrew NG Coursera's Machine Learning course
+
+softwares &  : 	Python(3.6.4)-jupyter notebook
+		Numpy,Pandas,Matplotlib and Scikit learn
+
+Operating    : 	Ubuntu(16.04 LTS)
+system
+
+Description  :  Distingushing the data as label 0 and 1 depending on the features given.
+		Predicting the label for given data through Logistic/sigmoid function
+		cost function chossen wisely such that the function attains global minima.
+		Gradient Descent algorithm is used to minimize the cost function which 
+                gives optimal paremets for our model
