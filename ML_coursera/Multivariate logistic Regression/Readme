@@ -1,0 +1,30 @@
+﻿Multi-Variate Regression
+
+Objective	: 	1)To Preform supervised learning and classfication on Mnist 
+			data & also see the effect of lamba on classification		
+
+Dataset	:	Obatained from Andrew NG Coursera's Machine Learning course
+			excerise(3)
+
+softwares & : 	Python(3.6.4)-jupyter notebook
+Packages		Numpy,Pandas,Matplotlib and Scipy
+
+Operating    : 	Ubuntu(16.04 LTS)
+system
+
+Description	:	Goal is to Predict Digit of the image data that presented to 
+			the Multivariate Logistic Regression		
+			and also to see the effects of regularization coefficient.
+  
+						
+
+
+	
+ 
+
+
+
+
+
+	
+
