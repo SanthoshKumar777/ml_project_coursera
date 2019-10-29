@@ -1,0 +1,33 @@
+﻿Neural Networks
+
+objective	:	To Train and Predict the label of mnist image data using only 			
+			Feed Forward Neural Network 							 
+Dataset	:		Obatained from Andrew NG Coursera's Machine Learning course
+			excerise(3) 
+
+softwares & 	: 	Python(3.6.4)-jupyter notebook
+Packages		Numpy,Pandas,Matplotlib 
+
+Operating   	: 	Ubuntu(16.04 LTS)		
+system 
+
+Description	:	To Predict the label of a given mnist image data and Feed 				
+			forward Neural Network with one input,one hidden and one 				
+			Output layer.             
+			Input layer nodes=5000
+			Hidden layer nodes=25
+			output layer nodes =10
+			so size of wieghts between input and hidden layers is 				
+			(401,26) and size of weights between hidden and ouput layers 			
+			is (26,10)(including bias).
+
+			
+ 
+
+         
+ 
+
+
+
+ 
+ 
